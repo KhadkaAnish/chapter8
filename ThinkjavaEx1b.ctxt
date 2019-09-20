@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ThinkjavaEx1b
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=size
+comment2.target=int[]\ randomArrays(int)
+comment3.params=a\ low\ high
+comment3.target=int\ inRange(int[],\ int,\ int)
+comment4.params=
+comment4.target=void\ printHist()
+numComments=5
